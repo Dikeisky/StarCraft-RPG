@@ -3,6 +3,7 @@ import java.util.Arrays;
 import juegorol.Protoss.Carrier;
 public class AtributosGlobales 
 {
+    // Comentario chido
     public float size;
     public float cargo;
     public int armor;
