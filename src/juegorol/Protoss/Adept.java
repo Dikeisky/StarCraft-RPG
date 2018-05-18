@@ -3,6 +3,7 @@ public class Adept extends Protoss
 {
    public Adept()
    {
+   //comentario chido 2.0
         this.size= 1;
         this.cargo=2;
         this.armor=1;
