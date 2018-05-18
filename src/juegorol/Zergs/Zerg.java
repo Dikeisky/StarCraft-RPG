@@ -11,6 +11,6 @@ public class Zerg extends AtributosGlobales
     }
     public void regenerarse()
     {
-        
+        // comentariochido 3.0
     }
 }
