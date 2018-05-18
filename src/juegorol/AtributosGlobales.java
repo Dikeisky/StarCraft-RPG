@@ -12,7 +12,7 @@ public class AtributosGlobales
     public int rango;
     public int vista;
     public int puntosunidad;
-    
+    // Comentario
     
     
 public float getSize(){
